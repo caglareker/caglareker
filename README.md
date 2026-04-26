@@ -2,7 +2,7 @@
 
 # Hi, I'm Çağlar 👋
 
-Backend developer at [Hepsiburada](https://www.hepsiburada.com), working on high-traffic e-commerce systems.
+Backend developer working on high-traffic e-commerce systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caglareker)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white)](http://caglareker.com/)
@@ -13,7 +13,7 @@ Backend developer at [Hepsiburada](https://www.hepsiburada.com), working on high
 
 ### About
 
-- 🏢 Software Engineer at **Hepsiburada**, building scalable e-commerce systems with microservices
+- 🏢 Software Engineer building scalable e-commerce systems with microservices
 - 📍 Istanbul, Turkey
 
 ---
