@@ -56,6 +56,12 @@ Backend developer working on high-traffic e-commerce systems.
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/caglareker/caglareker/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/caglareker/caglareker/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caglareker/caglareker/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/caglareker/caglareker/main/profile-summary-card-output/github/3-stats.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caglareker/caglareker/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/caglareker/caglareker/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+  </picture>
 </div>
