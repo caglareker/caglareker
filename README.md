@@ -56,6 +56,6 @@ Backend developer working on high-traffic e-commerce systems.
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caglareker&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglareker&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/caglareker/caglareker/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/caglareker/caglareker/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </div>
